@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <Company>Dušan Janošík</Company>
+    <Authors>djanosik</Authors>
+    <Copyright>Copyright © 2017 Dušan Janošík</Copyright>
+    <Product>Moon.DotVVM</Product>
+    <PackageIconUrl>https://djanosik.github.io/moon.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/djanosik/Moon.DotVVM</PackageProjectUrl>
+  </PropertyGroup>
+</Project>
