@@ -6,6 +6,6 @@
     <PackageTags>moon;dotvvm;aspnet</PackageTags>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="DotVVM" Version="1.1.2" />
+    <PackageReference Include="DotVVM" Version="1.1.5" />
   </ItemGroup>
 </Project>
